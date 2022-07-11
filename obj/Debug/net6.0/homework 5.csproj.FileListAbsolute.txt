@@ -1,0 +1,15 @@
+/Users/dmitrijbelkovskij/Desktop/C#/homework 5/bin/Debug/net6.0/homework 5
+/Users/dmitrijbelkovskij/Desktop/C#/homework 5/bin/Debug/net6.0/homework 5.deps.json
+/Users/dmitrijbelkovskij/Desktop/C#/homework 5/bin/Debug/net6.0/homework 5.runtimeconfig.json
+/Users/dmitrijbelkovskij/Desktop/C#/homework 5/bin/Debug/net6.0/homework 5.dll
+/Users/dmitrijbelkovskij/Desktop/C#/homework 5/bin/Debug/net6.0/homework 5.pdb
+/Users/dmitrijbelkovskij/Desktop/C#/homework 5/obj/Debug/net6.0/homework 5.csproj.AssemblyReference.cache
+/Users/dmitrijbelkovskij/Desktop/C#/homework 5/obj/Debug/net6.0/homework 5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dmitrijbelkovskij/Desktop/C#/homework 5/obj/Debug/net6.0/homework 5.AssemblyInfoInputs.cache
+/Users/dmitrijbelkovskij/Desktop/C#/homework 5/obj/Debug/net6.0/homework 5.AssemblyInfo.cs
+/Users/dmitrijbelkovskij/Desktop/C#/homework 5/obj/Debug/net6.0/homework 5.csproj.CoreCompileInputs.cache
+/Users/dmitrijbelkovskij/Desktop/C#/homework 5/obj/Debug/net6.0/homework 5.dll
+/Users/dmitrijbelkovskij/Desktop/C#/homework 5/obj/Debug/net6.0/refint/homework 5.dll
+/Users/dmitrijbelkovskij/Desktop/C#/homework 5/obj/Debug/net6.0/homework 5.pdb
+/Users/dmitrijbelkovskij/Desktop/C#/homework 5/obj/Debug/net6.0/homework 5.genruntimeconfig.cache
+/Users/dmitrijbelkovskij/Desktop/C#/homework 5/obj/Debug/net6.0/ref/homework 5.dll
